@@ -2,6 +2,7 @@
 
 1. **Download the Files**
    - Download the necessary files from the repository.
+   - Install Node Js: https://nodejs.org/en/download/package-manager/current
 
 2. **Create a Folder**
    - Create a new folder on your local machine and place the downloaded files into this folder.
